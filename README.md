@@ -36,8 +36,8 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### Program:
 ```
-Developed by: Sham Rathan.S
-RegisterNumber: 212221230093  
+Developed by: Jaison Raphael V
+RegisterNumber: 212221230038  
 ```
 ### Half Adder:
 ```
